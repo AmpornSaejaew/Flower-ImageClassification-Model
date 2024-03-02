@@ -1,3 +1,5 @@
 test/
 train/
 valid/
+flower_hp/
+trained-model-flower.keras
